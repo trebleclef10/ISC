@@ -17,7 +17,7 @@
         "textFont": "Raleway",
         "isRoundedButtons": false,
         "isAnimatedOnScroll": true,
-        "isScrollToTopButton": false,
+        "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": []
@@ -486,11 +486,12 @@
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
+              "linkInNewWindow": false,
+              "name": "whatsapp",
+              "family": "socicon",
+              "active": true,
+              "size": 0
             }
           },
           "media2": {
@@ -514,7 +515,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -1000,9 +1001,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1026,7 +1028,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -1372,9 +1374,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1398,7 +1401,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -1954,9 +1957,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -1980,7 +1984,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -2736,9 +2740,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -2762,7 +2767,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -3116,9 +3121,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -3142,7 +3148,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -3421,9 +3427,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -3447,7 +3454,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -4269,9 +4276,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -4295,7 +4303,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
@@ -5051,9 +5059,10 @@
             "iconFont": {
               "active": true,
               "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
+              "name": "whatsapp",
               "size": 0,
-              "family": "et-line"
+              "family": "socicon",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -5077,7 +5086,7 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "title1": "Who We Are",
           "text1": "We are in the business of helping yours",
-          "text2": "(65) 9859 5689&nbsp;<br>(65) 8482 8009",
+          "text2": "<a href=\"http://wa.me/659595689\" class=\"text-warning\">(65) 9859 5689&nbsp;</a><br><a href=\"http://wa.me/6584828009\" class=\"text-warning\">(65) 8482 8009</a>",
           "text3": "61 Ubi Road 1 #01-20&nbsp;Oxley Bizhub Singapore 408727",
           "text4": "<a href=\"mailto:admin@istatecorp.com.sg\" class=\"text-warning\">admin@istatecorp.com.sg</a>",
           "text5": "We are a Singapore-based corporate secretarial firm offering a suite of services which includes company registration and incorporation, full accounting services, company secretary services, auditing, business advisory services and much more.",
