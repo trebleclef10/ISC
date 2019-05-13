@@ -884,6 +884,7 @@ h6,
 }
 #msg-box8-1s .mbr-section-title {
   font-size: 20px;
+  color: #000000;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
@@ -1403,12 +1404,13 @@ h6,
 #msg-box8-14 .mbr-section-title {
   text-align: left;
 }
-#msg-box8-1s .mbr-section-title,
-#msg-box8-1s p {
+#msg-box8-29 .mbr-section-title,
+#msg-box8-29 p {
   color: #fff;
 }
-#msg-box8-1s .mbr-section-title {
+#msg-box8-29 .mbr-section-title {
   font-size: 20px;
+  color: #000000;
 }
 #header3-1b .mbr-section-title,
 #header3-1b .mbr-section-subtitle {
