@@ -1412,16 +1412,16 @@ h6,
   font-size: 20px;
   color: #000000;
 }
-#header3-1b .mbr-section-title,
-#header3-1b .mbr-section-subtitle {
+#header3-2a .mbr-section-title,
+#header3-2a .mbr-section-subtitle {
   text-align: center;
 }
-#header3-1b .mbr-section-title {
+#header3-2a .mbr-section-title {
   font-family: 'Roboto', sans-serif;
   font-size: 18px;
   text-align: left;
 }
-#header3-1b .mbr-section-subtitle {
+#header3-2a .mbr-section-subtitle {
   text-align: left;
   font-family: 'Lato', sans-serif;
 }
