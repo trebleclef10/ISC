@@ -350,7 +350,7 @@
           },
           "_params": {
             "autoplay": true,
-            "showBullets": true,
+            "showBullets": false,
             "bgColor": "#fff",
             "timeout": "2",
             "paddingTop": "0",
@@ -386,7 +386,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture4-1502x727.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -394,7 +394,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "title": "BACKGROUND VIDEO",
                 "overlay": false,
-                "contentAlign": "left",
+                "contentAlign": "center",
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
@@ -428,7 +428,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture3-1502x727.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
