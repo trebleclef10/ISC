@@ -156,7 +156,7 @@
             }
           },
           "title": "ABOUT US",
-          "text": "With over 10 years of experience in the company services and accounting industry, International State Corp is your one-stop corporate service provider for your business needs.We provide a comprehensive range of business services such as company registration and incorporation, accounting services, taxation, auditing and business advisory services.We pride ourselves on being professional, cost-effective and efficient. Our ability to deliver prompt and accurate services to our clients has enabled us to be industry leaders and we look forward to being your valued partner in your entrepreneurial and business journey.",
+          "text": "With over 10 years of experience in the company services and accounting industry, International State Corp is your one-stop corporate service provider for your business needs. <br><br>We provide a comprehensive range of business services such as company registration and incorporation, accounting services, taxation, auditing and business advisory services.<br><br>We pride ourselves on being professional, cost-effective and efficient. Our ability to deliver prompt and accurate services to our clients has enabled us to be industry leaders and we look forward to being your valued partner in your entrepreneurial and business journey.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">GET TO KNOW US</a>",
           "_tags": [
             "Theme"
@@ -386,7 +386,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture4-1502x727.png",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -400,7 +400,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/picture8-1502x727.png",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
