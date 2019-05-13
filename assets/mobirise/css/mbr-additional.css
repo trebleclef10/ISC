@@ -438,6 +438,10 @@ h6,
 #msg-box1-c H3 {
   text-align: right;
 }
+#slider2-2l .mbr-section-title,
+#slider2-2l .mbr-section-lead {
+  color: #fff;
+}
 #contacts3-d P {
   text-align: left;
   font-family: 'Roboto', sans-serif;
