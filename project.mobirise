@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "ISC",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -26,7 +26,7 @@
     "versionFirst": "4.10.0",
     "siteFonts": [],
     "uniqCompNum": 95,
-    "versionPublish": "4.10.0",
+    "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
     "noImageResize": "",
@@ -57,6 +57,21 @@
             "timeout": 5,
             "slides": [
               {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "INTEGRITY",
+                "overlay": true,
+                "contentAlign": "left",
+                "text": "At International State Corp, we believe that integrity is the most important value in business. Because integrity leads to trust, trust leads to repeat business and repeat business leads to profitability. Therefore, we place integrity as utmost priority when we deal with our clients and partners.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayColor": "#000000"
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/man-back.jpg",
                 "active": false,
                 "showButtons": false,
@@ -83,21 +98,6 @@
                 "contentAlign": "right",
                 "text": "We have the collective skills, abilities, experience and expertise of a corporate secretarial firm to ensure your business is well taken care of. Our people are highly competent to manage your company matters and to provide sound advice. You will have a piece of mind when you engage us as your strategic partner. ",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1620x1080.jpg",
-                "active": false,
-                "showButtons": false,
-                "showText": true,
-                "showTitle": true,
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "title": "INTEGRITY",
-                "overlay": true,
-                "contentAlign": "left",
-                "text": "At International State Corp, we believe that integrity is the most important value in business. Because integrity leads to trust, trust leads to repeat business and repeat business leads to profitability. Therefore, we place integrity as utmost priority when we deal with our clients and partners.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayColor": "#000000"
               }
             ]
           },
