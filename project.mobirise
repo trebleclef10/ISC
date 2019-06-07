@@ -25,7 +25,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.10.0",
     "siteFonts": [],
-    "uniqCompNum": 95,
+    "uniqCompNum": 97,
     "versionPublish": "4.10.1",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -3099,7 +3099,7 @@
         {
           "_params": {
             "googleMap": {
-              "address": "international state corp singapore",
+              "address": "international state corp singapore\n",
               "placeId": "ChIJW_cf8MQX2jERzp5hMMkICDQ",
               "state": "ok",
               "stateDetails": ""
@@ -3109,7 +3109,7 @@
             "Theme"
           ],
           "_name": "map1",
-          "_anchor": "map1-1x"
+          "_anchor": "map1-2o"
         },
         {
           "_params": {
